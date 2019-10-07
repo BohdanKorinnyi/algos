@@ -16,4 +16,4 @@ Typically, for binary search tree, we can retrieve all the data in sorted order 
 It is worth noting that when you delete nodes in a tree, deletion process will be in post-order. That is to say, when you delete a node, you will delete its left child and its right child before you delete the node itself.
 Also, post-order is widely use in mathematical expression. It is easier to write a program to parse a post-order expression. Here is an example:
 
-![](mathematical_expression.png =200x200)
+![](mathematical_expression.png)
